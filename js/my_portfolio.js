@@ -45,7 +45,7 @@ cards.push(special);
 
 const titles = ['Data Dashboard Healthcare', 'Website Portfolio', 'Profesional Art Printing Data'];
 
-let index = 2;
+let index = 3;
 
 while (idCount <= 6) {
   if (index > 4) {
